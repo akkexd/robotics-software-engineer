@@ -6,14 +6,6 @@ Use **Gazebo** to simulate a small building that will eventually house a mobile 
   <img src="docs/images/gazebo_world_screenshot.png" alt="Gazebo screenshot" width="700"/>
 </p>
 
----
-
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Directory Structure](#directory-structure)
-3. [Requirements](#requirements)
-
----
 
 ## Project Overview
 * Design a **single‑floor building** in Gazebo *Building Editor*.  
@@ -30,23 +22,6 @@ and prints:
 
 ```
 Welcome to Aung Khant Ko's World!
-```
-
----
-
-## Directory Structure
-```text
-Project1/
-├── model/                 
-│   └── Akkobot/…
-├── script/                
-│   ├── welcome_message.cpp
-│   └── CMakeLists.txt
-├── world/                 
-│   └── KoWorld.world
-└── docs/
-    └── images/
-        └── gazebo_world_screenshot.png
 ```
 
 ---
