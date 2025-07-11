@@ -1,4 +1,4 @@
-# Project 1 • Build My World 🏠🤖
+# Project 1 • Build My World 🏠
 
 Use **Gazebo** to simulate a small building that will eventually house a mobile robot.  
 
