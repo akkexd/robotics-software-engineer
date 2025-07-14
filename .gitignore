@@ -1,6 +1,9 @@
+# Catkin build artifacts
 build/
 devel/
-log/
-install/
-*.pyc
+
+# Editor swap/backup files
+*.swp
+*.swo
 *~
+
